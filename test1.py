@@ -7,5 +7,6 @@ def function1():
 
 def fun1():
     print "emp1 added"
+    print "emp2 added some more code"
     print "emp2 added some"
     print "dfsdfsdf"
